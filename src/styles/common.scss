@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.btn {
+  box-sizing: border-box;
+  height: 60px;
+  padding: 12px 22px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 24px;
+  border: none;
+}
+
+.btn-primary {
+  background-color: #3490FD;
+}
+
+.btn-success {
+  background-color: #00CA9D;
+}
+
+.btn-warning {
+  background-color: #FF5958;
+}
