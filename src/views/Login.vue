@@ -3,8 +3,8 @@
     <div class="brand-box">
       <img class="logo" src="@/assets/images/common/logo@2x.png" alt="">
       <div class="brand-name-domain">
-        <p class="name">俏回收</p>
-        <p class="domain">qhs.com</p>
+        <p class="name">商城</p>
+        <p class="domain">sc.com</p>
       </div>
     </div>
     <van-form class="from-box" ref="loginForm" :show-error="false">

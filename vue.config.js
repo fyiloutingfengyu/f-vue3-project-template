@@ -5,7 +5,7 @@ module.exports = {
     index: {
       entry: 'src/main.ts',
       template: 'public/index.html',
-      title: '俏回收'
+      title: '商城'
     }
   },
   parallel: false, // 处理打包后vant 样式丢失的问题
